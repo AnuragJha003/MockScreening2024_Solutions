@@ -10,7 +10,7 @@ Other possible permutations which should and are correct would be: 30 10 20 whic
 
 # Topics of the Questions
 
-## 1. Binary Search on Answer Space
+## 1. Binary Search on Answer Space(MIN TIME TO DATE)
 
 ### Overview
 - **Purpose**: Efficiently find the optimal solution within a large range.
@@ -21,7 +21,7 @@ Other possible permutations which should and are correct would be: 30 10 20 whic
 
 ---
 
-## 2. Knapsack Dynamic Programming (DP)
+## 2. Knapsack Dynamic Programming (DP) (SOLD FOR 24.5)
 
 ### Overview
 - **Purpose**: Maximize or minimize a value under certain constraints.
@@ -32,7 +32,7 @@ Other possible permutations which should and are correct would be: 30 10 20 whic
 
 ---
 
-## 3. Two-Pointer Technique
+## 3. Two-Pointer Technique(HEY JUDE!)
 
 ### Overview
 - **Purpose**: Efficiently process data in a sorted manner.
@@ -43,7 +43,7 @@ Other possible permutations which should and are correct would be: 30 10 20 whic
 
 ---
 
-## 4. Dynamic Programming on Trees
+## 4. Dynamic Programming on Trees(SKY)
 
 ### Overview
 - **Purpose**: Solve problems related to paths and subtrees within a tree structure.
